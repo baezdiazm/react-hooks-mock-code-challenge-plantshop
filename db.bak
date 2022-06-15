@@ -41,12 +41,6 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
-    },
-    {
-      "name": "Manny",
-      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/blue-flowers-hydrangeas-1588961512.jpg?crop=1.00xw:0.752xh;0,0.216xh&resize=980:*",
-      "price": 20,
-      "id": 8
     }
   ]
 }
